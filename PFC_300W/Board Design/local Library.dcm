@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOSFET_TO220
+K N-Channel Power MOSFET
+F http://www.fairchildsemi.com/ds/BU/BUZ11.pdf
+$ENDCMP
+#
+$CMP NCP1631
+D CrCM PFC Controller
+K PFC
+F https://www.onsemi.com/pub/Collateral/NCP1631-D.PDF
+$ENDCMP
+#
+#End Doc Library
